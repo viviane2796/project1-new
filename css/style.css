@@ -1,0 +1,20 @@
+header{
+
+    background-color: #1D4ED8;
+    color: white;
+    display: flex;
+    height: 150px;
+}
+
+header li {
+
+    display: inline;
+}
+
+header a{
+    color: white;
+}
+.headerWrap{
+
+
+}
